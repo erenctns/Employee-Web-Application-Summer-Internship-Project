@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\models\\updatepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\updatepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|c:\\users\\erenc\\onedrive\\desktop\\employee web application summer internship project\\crudapi\\crudapi\\migrations\\mydb\\20240812080504_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065B8F68-989E-4FAF-BA6F-405E7BE135E7}|CRUDApi\\CRUDApi.csproj|solutionrelative:crudapi\\migrations\\mydb\\20240812080504_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\User.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:37:15.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:57:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:46:37.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:43:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\UpdatePasswordDTO.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\UpdatePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\UpdatePasswordDTO.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\UpdatePasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:03:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CRUDApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:37:38.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\UserDTO.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:44:00.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUDApi\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:46:42.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUDApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswBYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:25:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CRUDApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:45:41.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\appsettings.json",
+              "RelativeToolTip": "CRUDApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T15:05:15.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Program.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Program.cs",
+              "RelativeToolTip": "CRUDApi\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:56:48.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240812080504_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Migrations\\MyDb\\20240812080504_AddUserTable.cs",
+              "RelativeDocumentMoniker": "CRUDApi\\Migrations\\MyDb\\20240812080504_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\erenc\\OneDrive\\Desktop\\Employee Web Application Summer Internship Project\\CRUDApi\\CRUDApi\\Migrations\\MyDb\\20240812080504_AddUserTable.cs",
+              "RelativeToolTip": "CRUDApi\\Migrations\\MyDb\\20240812080504_AddUserTable.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:05:04.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
