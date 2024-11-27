@@ -19,6 +19,10 @@ In this project, which I developed during my summer internship at Halk Yatırım
 # Users Page // Kullanıcılar Sayfası
 ![KullanıcıListesi](https://github.com/user-attachments/assets/513a7fcf-08e1-4b17-b5b5-a5a603a1dc26)
 
+# Swagger Page // Swagger Sayfası
+![Swaggerssi](https://github.com/user-attachments/assets/e97dbd36-60e5-4088-a8c5-be9938433cfc)
+
+
 # Technologies // Teknolojiler
 
  .Net Core 8 
